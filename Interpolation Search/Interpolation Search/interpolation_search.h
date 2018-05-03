@@ -1,0 +1,1 @@
+int interpolation_search(int[], int, int);
