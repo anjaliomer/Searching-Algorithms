@@ -1,0 +1,1 @@
+int linearSearch(int[], int, int, int);
